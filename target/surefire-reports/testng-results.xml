@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="590" started-at="2020-05-06T16:15:41 IST" finished-at="2020-05-06T16:15:42 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="590" started-at="2020-05-06T16:15:41 IST" finished-at="2020-05-06T16:15:42 IST">
+      <class name="mavenstudy.Mavenjava.RESRAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:mavenstudy.Mavenjava.RESRAPITest@63753b6d]" name="deleteTwitter" duration-ms="176" started-at="2020-05-06T16:15:41 IST" finished-at="2020-05-06T16:15:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:mavenstudy.Mavenjava.RESRAPITest@63753b6d]" name="postJira" duration-ms="2" started-at="2020-05-06T16:15:42 IST" finished-at="2020-05-06T16:15:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- mavenstudy.Mavenjava.RESRAPITest -->
+      <class name="mavenstudy.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="iosApps()[pri:0, instance:mavenstudy.Mavenjava.AppiumTest@6b09bb57]" name="iosApps" duration-ms="6" started-at="2020-05-06T16:15:42 IST" finished-at="2020-05-06T16:15:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApps -->
+        <test-method status="PASS" signature="naiveAppAndroid()[pri:0, instance:mavenstudy.Mavenjava.AppiumTest@6b09bb57]" name="naiveAppAndroid" duration-ms="2" started-at="2020-05-06T16:15:42 IST" finished-at="2020-05-06T16:15:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- naiveAppAndroid -->
+      </class> <!-- mavenstudy.Mavenjava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
